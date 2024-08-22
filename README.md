@@ -1,5 +1,6 @@
 # Vrinda-Store-Excel
 Vrinda Store 2022 Annual Sales Report
+
 Situation
 
 Vrinda Store, an e-commerce retailer, aims to create an annual sales report for the year 2022 to better understand customer behavior and grow sales in 2023. The report focuses on comparing sales and orders across months, understanding demographic trends, analyzing order status, identifying top-performing regions and channels, and determining the highest-selling categories. These insights will inform targeted strategies to boost sales in the upcoming year.
